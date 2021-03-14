@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: OntoClue
+description: Ontology-based label assignment supporting literature recommendations
+logo: ontoClue.png
