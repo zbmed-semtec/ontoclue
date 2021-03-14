@@ -1,6 +1,7 @@
 # OntoClue
 
 _Ontology-based label assignment supporting literature recommendations_
+
 _A research project by the Semantic Technologies team at [ZB MED](zbmed.de)_
 
 OntoClue is a research project aiming at finding and assigning topics to scholarly publications. It relies on background knowledge provided by ontologies and uses technologies such as graph embeddings, ontology hierarchical partition and name entity recognition.
