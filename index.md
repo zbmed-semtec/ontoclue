@@ -28,3 +28,11 @@ We are curretly exploring ways to cluster ontology terms so clusters can be late
 
 * Clustering of ontology terms with OWL2Vec*: We first create ontology embeddings with [OWL2Vec*](http://arxiv.org/abs/2009.14654) and then we create clusters out of the embeddings. We are currently exploring the sort of clusters we can obtain (from broad large clusters to fine-grained ones) and analizing the possibilities brought by them
 * Name entity recognition (NER): We are using [Whatizit](https://academic.oup.com/bioinformatics/article/24/2/296/227269), a dictionary-based NER that can be easily configured. As a proof-on-concept, we are generating Gene Ontology annotations for Medline abstracts from 2015 to 2019. We will first analyzed the ontology spectrum covered by the annotations and then we will combined annotation-based clusters with those coming from graph embedding on the previous step
+
+## Team
+* Georgi Lazarov, University of Bonn
+* Ashley Ritchie, City London University
+* Benjamin Wolff, ZB MED Information Centre for Life Sciences
+* Ernesto Jiménez-Ruiz, City London University
+* Dietrich Rebholz-Schuhmann, ZB MED Information Centre for Life Sciences
+* Leyla Jael Castro, ZB MED Information Centre for Life Sciences
